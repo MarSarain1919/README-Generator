@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MarSarain1919/README-Generator/issues"
   },
-  "homepage": "https://github.com/MarSarain1919/README-Generator#readme"
+  "homepage": "https://github.com/MarSarain1919/README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
 }
